@@ -1,5 +1,5 @@
 # LocalizedLanguage
 本地化多语言项目:
-本项目是使用Excel转化成二进制文件数据然后读取
-用到的插件有EPPlus
+本项目是使用EPPlus读取Excel数据
+然后将其数据转化成二进制数据写入StreamingAssets中。
 使用：你需要将每个需要多语言的Text添加LanguageText组件然后添加键值
